@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Z3_VERSION=6cc52e04c3ea7e2534644a285d231bdaaafd8714
-Z3_VERSION=8e6f17ebd011a352b3e67fcec03dcd4378a1472c
+Z3_VERSION=6cc52e04c3ea7e2534644a285d231bdaaafd8714
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 DEPS=$DIR/../deps
